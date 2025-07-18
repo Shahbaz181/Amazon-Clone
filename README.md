@@ -8,7 +8,6 @@ A responsive Amazon homepage UI built using **HTML** and **CSS**. This project f
 <img width="1896" height="922" alt="p3" src="https://github.com/user-attachments/assets/5c245a47-07e1-4189-92d7-52a89de89d11" />
 <img width="1902" height="707" alt="p4" src="https://github.com/user-attachments/assets/af9681e9-587e-4992-8a5e-2dda64b59d28" />
 <img width="1899" height="604" alt="p5" src="https://github.com/user-attachments/assets/3d16d3d9-b74a-451c-ac56-0a34a0d89168" />
-![Amazon Clone Preview](preview.png)
 
 ## 🚀 Features
 
