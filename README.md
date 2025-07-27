@@ -1,4 +1,6 @@
-# 🛒 Amazon Clone (Front-End)
+# 🛒 online-store-clone (Front-End)
+
+> ⚠️ Disclaimer: This project is for educational purposes only. It is not affiliated with Amazon or any other brand. All trademarks and logos belong to their rightful owners.
 
 A responsive Amazon homepage UI built using **HTML** and **CSS**. This project focuses on recreating the front-end layout of the Amazon website to improve skills in web design and responsive development.
 
